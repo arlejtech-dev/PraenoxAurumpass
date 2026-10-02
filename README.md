@@ -41,7 +41,7 @@ Praenox Aurum Android licence supplied after purchase. Windows Praenox Pro and D
 are separate and do not activate the Android edition.
 New - user can buy 90 day license
 
-Purchase information and licence help: [praenox.pages.dev](https://praenox.com)
+Purchase information and licence help: [praenox.com](https://praenox.com)
 
 ## Requirements
 
@@ -56,6 +56,6 @@ not diagnose, treat, or replace professional medical care.
 
 Created by **Arlej Tech**.
 
-- Website: [arlejtech.pages.dev](https://arlejtech.com)
-- Praenox: [praenox.pages.dev](https://praenox.com)
+- Website: [arlejtech.com](https://arlejtech.com)
+- Praenox: [praenox.com](https://praenox.com)
 - Email: [info@praenox.com](mailto:info@praenox.com)
