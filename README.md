@@ -39,8 +39,9 @@ before changing phones, clearing application data, or uninstalling the app.
 The direct-download APK uses an offline lifetime licence. On first launch, the user enters the
 Praenox Aurum Android licence supplied after purchase. Windows Praenox Pro and Developer licences
 are separate and do not activate the Android edition.
+New - user can buy 90 day license
 
-Purchase information and licence help: [praenox.pages.dev](https://praenox.pages.dev)
+Purchase information and licence help: [praenox.pages.dev](https://praenox.com)
 
 ## Requirements
 
@@ -55,6 +56,6 @@ not diagnose, treat, or replace professional medical care.
 
 Created by **Arlej Tech**.
 
-- Website: [arlejtech.pages.dev](https://arlejtech.pages.dev)
-- Praenox: [praenox.pages.dev](https://praenox.pages.dev)
-- Email: [arlej.tech@gmail.com](mailto:arlej.tech@gmail.com)
+- Website: [arlejtech.pages.dev](https://arlejtech.com)
+- Praenox: [praenox.pages.dev](https://praenox.com)
+- Email: [info@praenox.com](mailto:info@praenox.com)
